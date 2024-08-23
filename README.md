@@ -1,4 +1,4 @@
-# Hi, I'm Fabian Raum 👋
+# Hi, I'm Fabian 👋
 
 I'm a **Full-Stack Engineer** based in Southern Germany, passionate about building scalable and impactful solutions with a focus on both frontend and backend technologies.
 
