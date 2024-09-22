@@ -4,23 +4,23 @@ I'm a **Full-Stack Engineer** based in Southern Germany, passionate about buildi
 
 ### 🛠️ Tech Stack:
 - **Frontend**: React, Next.js, TailwindCSS, Styled Components
-- **Backend**: Node.js, Express.js, FastAPI, Flask, Ruby on Rails, Next.js API Routes, GraphQL, RESTful APIs
-- **Languages**: Python, JavaScript, TypeScript, Ruby, SQL, HTML, CSS
+- **Backend**: Node.js, Express.js, FastAPI, Flask, Ruby on Rails, Go, Next.js, GraphQL, RESTful APIs
+- **Languages**: Python, JavaScript, TypeScript, Ruby, Go, Bash, SQL, HTML, CSS
 - **Databases**: MongoDB, MySQL, PostgreSQL, Supabase
-- **Tools & Platforms**: Docker, Vercel, Netlify, GitHub Actions, Jenkins, CI/CD pipelines, AWS (S3, Lambda), Google Cloud, Stripe API
+- **Tools & Platforms**: Docker, Vercel, Netlify, GitHub Actions, Jenkins, AWS, Google Cloud, Stripe API
 - **Testing**: Jest, Cypress, React Testing Library
 
 ### 🚀 My Journey So Far:
-- **Founder & Exited Startup**: I founded and successfully exited a startup, gaining valuable insights into the world of e-commerce and SaaS.
-- **Head of IT**: I’ve served as Head of IT, managing two mixed teams of 10 talented engineers/product owners/data analysts, and leading them to success across various projects.
-- **Consulting International Clients**: I’ve consulted for various international clients, helping them optimize their tech stacks, scale their applications, and implement cutting-edge solutions.
-- **Versatile Experience**: From developing custom e-commerce solutions to building AI-driven SaaS platforms, I love tackling complex challenges.
+- **Head of IT**: Led a 10-member IT team (software, web, data), driving full-stack product development and optimizing processes for a 3.5M+ user base and 2,200 B2B partners, enhancing experimentation, tooling, and KPIs.
+- **Founder & Exited Startup**: Founded and successfully exited a startup, gaining valuable insights into the world of e-commerce and SaaS.
+- **Interim-Management**: Held roles as Chief of Staff, Head of Operations, and Sales Engineer for international clients with 8-figure users and fundings, focusing on operations, strategy, and sales optimizations, delivering business value through process improvements.
+- **Consulting International Clients**: Provided strategic consulting, tech stack optimization, and Go-To-Market strategies for international clients, delivering measurable business impact.
+- **Versatile Experience**: From driving digital transformation to scaling AI-driven SaaS platforms, I enjoy solving complex challenges and scaling businesses.
 
 ### 💡 Passions:
-- **AI & Machine Learning**: Exploring how AI can be integrated into real-world applications.
+- **AI & Machine Learning**: Exploring AI real-world applications.
 - **UX/UI Design**: Creating intuitive and beautiful user experiences.
-- **Automation**: Streamlining processes to save time and enhance productivity.
+- **Automation**: Streamlining software engineering processes to save time and enhance productivity.
+- **Building High-Performance Teams**: Fostering team collaboration and growth while delivering impactful products.
 
-🔗 **[Explore my projects and more on fabianraum.com](https://fabianraum.com)**
-
-I'm always up for a chat about tech, freelance opportunities, or just exchanging ideas. Reach out and let’s create something cool together!
+I’m passionate about exploring new challenges and technologies. Feel free to connect!
