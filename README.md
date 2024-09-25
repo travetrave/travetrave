@@ -1,14 +1,16 @@
 # Hi, I'm Fabian 👋
 
-I'm a **Full-Stack Engineer** based in Southern Germany, passionate about building scalable and impactful solutions with a focus on both frontend and backend technologies.
+I'm a **Full-Stack Engineer** based in Southern Germany, passionate about building scalable and impactful solutions with a focus on both frontend and backend technologies, alongside a strong interest in AI & Machine Learning.
 
 ### 🛠️ Tech Stack:
 - **Frontend**: React, Next.js, TailwindCSS, Styled Components
 - **Backend**: Node.js, Express.js, FastAPI, Flask, Ruby on Rails, Go, Next.js, GraphQL, RESTful APIs
 - **Languages**: Python, JavaScript, TypeScript, Ruby, Go, Bash, SQL, HTML, CSS
 - **Databases**: MongoDB, MySQL, PostgreSQL, Supabase
+- **AI/ML Technologies**: PREM, Vertex, Bedrock, PyTorch, Scikit-learn, OpenAI API, Anthropic API
 - **Tools & Platforms**: Docker, Vercel, Netlify, GitHub Actions, Jenkins, AWS, Google Cloud, Stripe API
 - **Testing**: Jest, Cypress, React Testing Library
+- **AI Integration**: Chatbots, NLP models, recommendation systems, and predictive analytics in real-world applications
 
 ### 🚀 My Journey So Far:
 - **Head of IT**: Led a 10-member IT team (software, web, data), driving full-stack product development and optimizing processes for a 3.5M+ user base and 2,200 B2B partners, enhancing experimentation, tooling, and KPIs.
